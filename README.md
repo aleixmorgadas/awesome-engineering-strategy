@@ -15,6 +15,7 @@
 
 - [Designing an Engineering Strategy Post Series by Aleix Morgadas](https://learnings.aleixmorgadas.dev/p/designing-an-engineering-strategy)
 - [Engineering strategy by Will Larson](https://lethain.com/engineering-strategy/)
+- [Defining a Tech Strategy by Sarah Taraporewalla](https://sarahtaraporewalla.com/agile/design/architecture/Defining-a-Tech-Strategy)
 
 ## Open Engineering Strategies
 
