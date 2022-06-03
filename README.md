@@ -14,6 +14,7 @@
 ### Posts
 
 - [Designing an Engineering Strategy Post Series by Aleix Morgadas](https://learnings.aleixmorgadas.dev/p/designing-an-engineering-strategy)
+- [Engineering strategy by Will Larson](https://lethain.com/engineering-strategy/)
 
 ## Open Engineering Strategies
 
