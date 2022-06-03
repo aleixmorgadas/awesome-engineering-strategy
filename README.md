@@ -23,3 +23,4 @@
 ## Open Engineering Strategies
 
 - [Community Startup by Aleix Morgadas](https://learnings.aleixmorgadas.dev/p/community-startup-engineering-strategy?s=w). Prove Product Market Fit with an MVP.
+- [GitLab Strategy](https://about.gitlab.com/company/strategy/)
