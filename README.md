@@ -22,5 +22,7 @@
 
 ## Open Engineering Strategies
 
+> Open Engineering Strategies section aims to provide a relevant set of public available Engineering Strategies so we can learn from each other.
+
 - [Community Startup by Aleix Morgadas](https://learnings.aleixmorgadas.dev/p/community-startup-engineering-strategy?s=w). Prove Product Market Fit with an MVP.
 - [GitLab Strategy](https://about.gitlab.com/company/strategy/)
