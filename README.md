@@ -12,6 +12,7 @@
 - [Staff Engineer: Leadership Beyond the Management Track by Will Larson](https://www.goodreads.com/book/show/56481725-staff-engineer)
 - [Reaching Cloud Velocity: A Leader's Guide to Success in the AWS Cloud by  Jonathan Allen, Thomas Blood, Werner Vogels, Adrian Cockcroft, Mark Schwartz](https://www.goodreads.com/book/show/53503300-reaching-cloud-velocity)
 - [UN Global Platform Handbook on Information Technology Strategy by  Mark Craddock, Rob McLellan, Simon Wardley, Matjaz Jug, Jan Murdoch](https://www.goodreads.com/book/show/55047345-un-global-platform-handbook-on-information-technology-strategy)
+- [Good Strategy Bad Strategy: The Difference and Why It Matters](https://www.goodreads.com/en/book/show/11721966)
 
 ### Posts
 
@@ -20,6 +21,7 @@
 - [Defining a Tech Strategy by Sarah Taraporewalla](https://sarahtaraporewalla.com/agile/design/architecture/Defining-a-Tech-Strategy)
 - [Tech Strategy: You Need it, But What is it? by Nick Tune](https://medium.com/nick-tune-tech-strategy-blog/tech-strategy-you-need-it-but-what-is-it-af292421e422)
 - [🗺🧭 Using Wardley Mapping to understand why Google made G. Appointments to compete in the Calendly market by Aleix Morgadas](https://learnings.aleixmorgadas.dev/p/-using-wardley-mapping-to-understand)
+- [What is a Strategy? Why do you need one in Tech?](https://www.linkedin.com/pulse/what-strategy-why-do-you-need-one-tech-rui-felgueiras/?trackingId=9pPVi5X%2BQiyMQXBLcpfJbA%3D%3D)
 
 ## Open Engineering Strategies
 
