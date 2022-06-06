@@ -21,7 +21,7 @@
 - [Defining a Tech Strategy by Sarah Taraporewalla](https://sarahtaraporewalla.com/agile/design/architecture/Defining-a-Tech-Strategy)
 - [Tech Strategy: You Need it, But What is it? by Nick Tune](https://medium.com/nick-tune-tech-strategy-blog/tech-strategy-you-need-it-but-what-is-it-af292421e422)
 - [🗺🧭 Using Wardley Mapping to understand why Google made G. Appointments to compete in the Calendly market by Aleix Morgadas](https://learnings.aleixmorgadas.dev/p/-using-wardley-mapping-to-understand)
-- [What is a Strategy? Why do you need one in Tech?](https://www.linkedin.com/pulse/what-strategy-why-do-you-need-one-tech-rui-felgueiras/?trackingId=9pPVi5X%2BQiyMQXBLcpfJbA%3D%3D)
+- [What is a Strategy? Why do you need one in Tech?](https://www.linkedin.com/pulse/what-strategy-why-do-you-need-one-tech-rui-felgueiras)
 
 ## Open Engineering Strategies
 
