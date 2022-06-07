@@ -30,3 +30,6 @@
 - [Community Startup by Aleix Morgadas](https://learnings.aleixmorgadas.dev/p/community-startup-engineering-strategy?s=w). Prove Product Market Fit with an MVP.
 - [GitLab Strategy](https://about.gitlab.com/company/strategy/)
 - [Flutter in 2022 Strategy](https://flutter.dev/go/strategy-2022). Flutter annual strategy document for 2022
+
+## Open Architectures
+
