@@ -30,6 +30,9 @@
 - [Community Startup by Aleix Morgadas](https://learnings.aleixmorgadas.dev/p/community-startup-engineering-strategy?s=w). Prove Product Market Fit with an MVP.
 - [GitLab Strategy](https://about.gitlab.com/company/strategy/)
 - [Flutter in 2022 Strategy](https://flutter.dev/go/strategy-2022). Flutter annual strategy document for 2022
+- [Gitpod Strategy](https://gitpod.notion.site/Gitpod-s-Direction-be35d064c0704fbda61c542b84e07ef6)
 
 ## Open Architectures
+
+- [Gitpod Architecture](https://gitpod.notion.site/Architecture-0e39e570b10f4e8ba7b259629ee3cb74#496a63099c8e430291de3fb9576525f6)
 
