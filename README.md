@@ -36,3 +36,6 @@
 
 - [Gitpod Architecture](https://gitpod.notion.site/Architecture-0e39e570b10f4e8ba7b259629ee3cb74#496a63099c8e430291de3fb9576525f6)
 
+### Spanish 🇪🇸
+
+- [Cómo TWITTER gestiona MILLONES de PETICIONES por SEGUNDO by CodelyTV](https://www.youtube.com/watch?v=6o0usvW5bqY)
