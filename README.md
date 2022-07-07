@@ -31,6 +31,7 @@
 - [GitLab Strategy](https://about.gitlab.com/company/strategy/)
 - [Flutter in 2022 Strategy](https://flutter.dev/go/strategy-2022). Flutter annual strategy document for 2022
 - [Gitpod Strategy](https://gitpod.notion.site/Gitpod-s-Direction-be35d064c0704fbda61c542b84e07ef6)
+- [Qatium Product Market Fit](https://learnings.aleixmorgadas.dev/p/post-product-market-fit-open-engineering)
 
 ## Open Architectures
 
