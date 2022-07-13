@@ -1,13 +1,21 @@
-# awesome-engineering-strategy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Engineering Strategy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > 🎉 A curated list of awesome things related to Engineering Strategy
 
-<!-- md-parser-start -->
+## Contents
+
+- [Resources](#resources)
+    - [Books](#books)
+    - [Posts](#posts)
+- [Open Engineering Strategies](#open-engineering-strategies)
+- [Open Architectures](#open-architectures)
+    - [Spanish 🇪🇸](#spanish-)
+
 ## Resources
 
 ### Books
 
-- [Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture by Vaughn Vernon, Tomasz Jaskula ](https://www.goodreads.com/book/show/55782292-strategic-monoliths-and-microservices)
+- [Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture by Vaughn Vernon, Tomasz Jaskula](https://www.goodreads.com/book/show/55782292-strategic-monoliths-and-microservices)
 - [Technology Strategy Patterns: Architecture as Strategy by  Eben Hewitt](https://www.goodreads.com/book/show/42414767-technology-strategy-patterns)
 - [Staff Engineer: Leadership Beyond the Management Track by Will Larson](https://www.goodreads.com/book/show/56481725-staff-engineer)
 - [Reaching Cloud Velocity: A Leader's Guide to Success in the AWS Cloud by  Jonathan Allen, Thomas Blood, Werner Vogels, Adrian Cockcroft, Mark Schwartz](https://www.goodreads.com/book/show/53503300-reaching-cloud-velocity)
@@ -27,9 +35,9 @@
 
 > Open Engineering Strategies section aims to provide a relevant set of public available Engineering Strategies so we can learn from each other.
 
-- [Community Startup by Aleix Morgadas](https://learnings.aleixmorgadas.dev/p/community-startup-engineering-strategy?s=w). Prove Product Market Fit with an MVP.
+- [Community Startup by Aleix Morgadas](https://learnings.aleixmorgadas.dev/p/community-startup-engineering-strategy?s=w) - Prove Product Market Fit with an MVP.
 - [GitLab Strategy](https://about.gitlab.com/company/strategy/)
-- [Flutter in 2022 Strategy](https://flutter.dev/go/strategy-2022). Flutter annual strategy document for 2022
+- [Flutter in 2022 Strategy](https://flutter.dev/go/strategy-2022) - Flutter annual strategy document for 2022.
 - [Gitpod Strategy](https://gitpod.notion.site/Gitpod-s-Direction-be35d064c0704fbda61c542b84e07ef6)
 - [Qatium Product Market Fit](https://learnings.aleixmorgadas.dev/p/post-product-market-fit-open-engineering)
 
