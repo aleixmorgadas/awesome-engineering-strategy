@@ -4,7 +4,7 @@
 
 Engineering Strategy is very needed nowadays in every technological company. This list is a composition of resources such books, posts, templates, learning materials, and open engineering strategies made by the community and companies.
 
-Contributions welcome! Contribution [guidelines](./contributing.md) for adding something to the list.
+Contributions are welcome! Check out the contribution guidelines for adding items to the list.
 
 ## Contents
 
