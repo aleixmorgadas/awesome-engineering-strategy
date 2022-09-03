@@ -17,10 +17,10 @@ Contributions welcome! Contribution [guidelines](./contributing.md) for adding s
 ## Books
 
 - [Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture by Vaughn Vernon, Tomasz Jaskula](https://www.goodreads.com/book/show/55782292-strategic-monoliths-and-microservices) - A set of strategic patterns on addressing business capabilities with a monolith and microservices approach.
-- [Technology Strategy Patterns: Architecture as Strategy by  Eben Hewitt](https://www.goodreads.com/book/show/42414767-technology-strategy-patterns) - A list of patterns to understand and address the business needs from an engineering point of view.
+- [Technology Strategy Patterns: Architecture as Strategy by  Eben Hewitt](https://www.goodreads.com/book/show/42414767-technology-strategy-patterns) - A set of business tools and patterns from an engineering point of view.
 - [Staff Engineer: Leadership Beyond the Management Track by Will Larson](https://www.goodreads.com/book/show/56481725-staff-engineer) - How is the role of the staff engineer and how this role addresses the engineering strategy.
 - [Reaching Cloud Velocity: A Leader's Guide to Success in the AWS Cloud by  Jonathan Allen, Thomas Blood, Werner Vogels, Adrian Cockcroft, Mark Schwartz](https://www.goodreads.com/book/show/53503300-reaching-cloud-velocity) - A high-level book on business strategy, people, culture, data and architecture and how this drives cloud velocity.
-- [UN Global Platform Handbook on Information Technology Strategy by  Mark Craddock, Rob McLellan, Simon Wardley, Matjaz Jug, Jan Murdoch](https://www.goodreads.com/book/show/55047345-un-global-platform-handbook-on-information-technology-strategy) - A set of Wardley Maps on IT. Bringing situational awareness to different contexts.
+- [UN Global Platform Handbook on Information Technology Strategy by  Mark Craddock, Rob McLellan, Simon Wardley, Matjaz Jug, Jan Murdoch](https://www.goodreads.com/book/show/55047345-un-global-platform-handbook-on-information-technology-strategy) - A set of wardley maps on IT. Bringing situational awareness to different contexts.
 - [Good Strategy Bad Strategy: The Difference and Why It Matters](https://www.goodreads.com/en/book/show/11721966) - Understand the core components of a strategy.
 
 ## Posts
@@ -28,7 +28,7 @@ Contributions welcome! Contribution [guidelines](./contributing.md) for adding s
 - [Designing an Engineering Strategy Post Series by Aleix Morgadas](https://learnings.aleixmorgadas.dev/p/designing-an-engineering-strategy) - How to build an engineering strategy from 0.
 - [Engineering strategy by Will Larson](https://lethain.com/engineering-strategy/) - What's an engineering strategy.
 - [Defining a Tech Strategy by Sarah Taraporewalla](https://sarahtaraporewalla.com/agile/design/architecture/Defining-a-Tech-Strategy) - A high-level guideline on defining a tech strategy.
-- [Tech Strategy: You Need it, But What is it? by Nick Tune](https://medium.com/nick-tune-tech-strategy-blog/tech-strategy-you-need-it-but-what-is-it-af292421e422) - In-depth reflection of what is a Tech Strategy. 
+- [Tech Strategy: You Need it, But What is it? by Nick Tune](https://medium.com/nick-tune-tech-strategy-blog/tech-strategy-you-need-it-but-what-is-it-af292421e422) - In-depth reflection of what is a tech strategy. 
 - [🗺🧭 Using Wardley Mapping to understand why Google made G. Appointments to compete in the Calendly market by Aleix Morgadas](https://learnings.aleixmorgadas.dev/p/-using-wardley-mapping-to-understand) - Using wardley mapping to understand google appointments.
 - [What is a Strategy? Why do you need one in Tech?](https://www.linkedin.com/pulse/what-strategy-why-do-you-need-one-tech-rui-felgueiras) - Introduction to what is a strategy for tech.
 
