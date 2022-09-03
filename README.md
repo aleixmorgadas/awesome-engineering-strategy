@@ -1,6 +1,8 @@
 # Awesome Engineering Strategy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Engineering Strategy is very needed nowadays in every technological company. This list is a composition of resources as books, posts, templates, learning materials, and open engineering strategies made by the community and companies.
+> 🎉 A curated list of awesome things related to Engineering Strategy
+
+Engineering Strategy is very needed nowadays in every technological company. This list is a composition of resources such books, posts, templates, learning materials, and open engineering strategies made by the community and companies.
 
 Contributions welcome! Contribution [guidelines](./contributing.md) for adding something to the list.
 
