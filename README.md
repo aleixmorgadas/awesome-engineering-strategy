@@ -2,7 +2,7 @@
 
 > 🎉 A curated list of awesome things related to Engineering Strategy
 
-Engineering Strategy is very needed nowadays in every technological company. This list is a composition of resources such books, posts, templates, learning materials, and open engineering strategies made by the community and companies.
+Engineering Strategy is a composition of resources such books, posts, templates, learning materials, and open engineering strategies made by the community and companies.
 
 Contributions are welcome! Check out the contribution guidelines for adding items to the list.
 
