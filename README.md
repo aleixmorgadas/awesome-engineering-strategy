@@ -44,9 +44,9 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 - [Community Startup by Aleix Morgadas](https://learnings.aleixmorgadas.dev/p/community-startup-engineering-strategy?s=w) - Prove Product Market Fit with an MVP.
 - [GitLab Strategy](https://about.gitlab.com/company/strategy/) - Complete GitLab three-year strategy. Containing direction, customer focus, and team dynamics.
 - [Flutter in 2022 Strategy](https://flutter.dev/go/strategy-2022) - Flutter annual strategy document for 2022.
-- [Gitpod Strategy](https://gitpod.notion.site/Gitpod-s-Direction-be35d064c0704fbda61c542b84e07ef6) - GitPod purpose, vision, and strategy.
+- [Gitpod Strategy](https://gitpod.notion.site/Gitpod-s-Direction-be35d064c0704fbda61c542b84e07ef6) - Gitpod purpose, vision, and strategy.
 - [Qatium Product Market Fit](https://learnings.aleixmorgadas.dev/p/post-product-market-fit-open-engineering) - An engineering strategy when the product verifies product market fit and the engineering isn't evolving the practices to match the new product needs.
 
 ## Open Architectures
 
-- [Gitpod Architecture](https://gitpod.notion.site/Architecture-0e39e570b10f4e8ba7b259629ee3cb74#496a63099c8e430291de3fb9576525f6) - GitPod architecture aligned with their strategy.
+- [Gitpod Architecture](https://gitpod.notion.site/Architecture-0e39e570b10f4e8ba7b259629ee3cb74#496a63099c8e430291de3fb9576525f6) - Gitpod architecture aligned with their strategy.
