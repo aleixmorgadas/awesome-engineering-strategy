@@ -1,6 +1,6 @@
 # Awesome Engineering Strategy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> 🎉 A curated list of awesome things related to Engineering Strategy
+> 🎉 How to design and execute engineering strategies for tech leadership.
 
 Engineering Strategy is a composition of resources such books, posts, templates, learning materials, and open engineering strategies made by the community and companies.
 
