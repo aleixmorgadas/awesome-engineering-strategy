@@ -42,7 +42,7 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 
 > Open Engineering Strategies section aims to provide a relevant set of public available Engineering Strategies so we can learn from each other.
 
-- [Community Startup by Aleix Morgadas](https://learnings.aleixmorgadas.dev/p/community-startup-engineering-strategy?s=w) - Prove Product Market Fit with an MVP.
+- [Community Startup by Aleix Morgadas](https://learnings.aleixmorgadas.dev/p/community-startup-engineering-strategy?s=w) - Prove product market fit with an MVP.
 - [GitLab Strategy](https://about.gitlab.com/company/strategy/) - Complete GitLab three-year strategy. Containing direction, customer focus, and team dynamics.
 - [Flutter in 2022 Strategy](https://flutter.dev/go/strategy-2022) - Flutter annual strategy document for 2022.
 - [Gitpod Strategy](https://gitpod.notion.site/Gitpod-s-Direction-be35d064c0704fbda61c542b84e07ef6) - Gitpod purpose, vision, and strategy.
