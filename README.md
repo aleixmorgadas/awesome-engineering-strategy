@@ -31,7 +31,7 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 - [Tech Strategy: You Need it, But What is it? by Nick Tune](https://medium.com/nick-tune-tech-strategy-blog/tech-strategy-you-need-it-but-what-is-it-af292421e422) - In-depth reflection of what is a tech strategy. 
 - [🗺🧭 Using Wardley Mapping to understand why Google made G. Appointments to compete in the Calendly market by Aleix Morgadas](https://learnings.aleixmorgadas.dev/p/-using-wardley-mapping-to-understand) - Using wardley mapping to understand google appointments.
 - [What is a Strategy? Why do you need one in Tech?](https://www.linkedin.com/pulse/what-strategy-why-do-you-need-one-tech-rui-felgueiras) - Introduction to what is a strategy for tech.
-- [Delivering on an Architecture Strategy](https://blog.thepete.net/blog/2019/12/09/delivering-on-an-architecture-strategy/) - describes Strategic Architectural Initiatives, a framework which allowing product peeps and techies to make progress on big technical improvements via aligned autonomy.
+- [Delivering on an Architecture Strategy](https://blog.thepete.net/blog/2019/12/09/delivering-on-an-architecture-strategy/) - Describes strategic architectural initiatives, a framework which allowing product peeps and techies to make progress on big technical improvements via aligned autonomy.
 
 
 ## Templates
