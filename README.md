@@ -10,6 +10,7 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 
 - [Books](#books)
 - [Posts](#posts)
+- [Videos](#videos)
 - [Templates](#templates)
 - [Open Engineering Strategies](#open-engineering-strategies)
 - [Open Architectures](#open-architectures)
