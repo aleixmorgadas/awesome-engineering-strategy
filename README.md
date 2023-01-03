@@ -36,6 +36,8 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 - [Strategy glossary](https://alexewerlof.substack.com/p/strategy-glossary) - Building a common language for vision, mission, goals, objectives, roadmap, plans, milestones, policies.
 - [Strategy basics](https://alexewerlof.substack.com/p/strategy-basics) - First in a series of posts about strategy why, how and what.
 
+## Videos
+
 ## Templates
 
 - [Engineering Strategy Notion Template](https://aleixmorgadas.notion.site/Engineering-Strategy-Template-910ad428d3d14c5a9aef4a4c32c4a8ba) - A template with the core elements of an engineering strategy, the high-stake problem, the understanding phase, the direction, and coherent actions.
