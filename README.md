@@ -33,8 +33,8 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 - [What is a Strategy? Why do you need one in Tech?](https://www.linkedin.com/pulse/what-strategy-why-do-you-need-one-tech-rui-felgueiras) - Introduction to what is a strategy for tech.
 - [Delivering on an Architecture Strategy](https://blog.thepete.net/blog/2019/12/09/delivering-on-an-architecture-strategy/) - Describes strategic architectural initiatives, a framework which allowing product peeps and techies to make progress on big technical improvements via aligned autonomy.
 - [ADR: Deep Dive into Architecture Decision Records](https://okorkmaz.medium.com/adr-deep-dive-into-architecture-decision-records-8c110ce7d74e) - Introduces what an architecture decision record is, describes the terminology, how to document the finalized architecture, and focuses on the best practices by presenting real scenerio.
-- [Strategy glossary](https://alexewerlof.substack.com/p/strategy-glossary) building a common language for Vision, Mission, Goals, Objectives, Roadmap, Plans, Milestones, Policies
-- [Strategy basics](https://alexewerlof.substack.com/p/strategy-basics) first in a series of posts about strategy WHY, HOW and WHAT
+- [Strategy glossary](https://alexewerlof.substack.com/p/strategy-glossary) - Building a common language for vision, mission, goals, objectives, roadmap, plans, milestones, policies.
+- [Strategy basics](https://alexewerlof.substack.com/p/strategy-basics) - First in a series of posts about strategy why, how and what.
 
 ## Templates
 
