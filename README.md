@@ -23,6 +23,7 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 - [Reaching Cloud Velocity: A Leader's Guide to Success in the AWS Cloud by  Jonathan Allen, Thomas Blood, Werner Vogels, Adrian Cockcroft, Mark Schwartz](https://www.goodreads.com/book/show/53503300-reaching-cloud-velocity) - A high-level book on business strategy, people, culture, data and architecture and how this drives cloud velocity.
 - [UN Global Platform Handbook on Information Technology Strategy by  Mark Craddock, Rob McLellan, Simon Wardley, Matjaz Jug, Jan Murdoch](https://www.goodreads.com/book/show/55047345-un-global-platform-handbook-on-information-technology-strategy) - A set of wardley maps on IT. Bringing situational awareness to different contexts.
 - [Good Strategy Bad Strategy: The Difference and Why It Matters](https://www.goodreads.com/en/book/show/11721966) - Understand the core components of a strategy.
+- [The Value Flywheel Effect: Power the Future and Accelerate Your Organization to the Modern Cloud](https://www.goodreads.com/book/show/61167316-the-value-flywheel-effect?ac=1&from_search=true&qid=donxleC2tR&rank=1) - Using Wardley Mapping and other sensemaking approaches to help organizations anticip[ate market changes and user needs.
 
 ## Posts
 
