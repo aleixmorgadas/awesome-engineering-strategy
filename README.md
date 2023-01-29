@@ -11,6 +11,7 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 - [Books](#books)
 - [Posts](#posts)
 - [Videos](#videos)
+- [Courses and Workshops](#courses-and-workshops)
 - [Templates](#templates)
 - [Open Engineering Strategies](#open-engineering-strategies)
 - [Open Architectures](#open-architectures)
@@ -50,6 +51,12 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 - [Crossing the River by Feeling the Stones - Simon Wardley](https://www.youtube.com/watch?v=oZZKjxeg5W0) - Simon Wardley examines the issue of situational awareness and explains how it applies to technology.
 - [Complex Adaptive Systems - Dave Snowden](https://www.youtube.com/watch?v=l4-vpegxYPg)
 - [Systems are communication structures - Diana Montalion](https://www.youtube.com/watch?v=U_0B-aY_L0c)
+
+## Courses and Workshops
+
+- [Pragmatic Wardley Mapping](https://learn.hiredthought.com/p/wardley-mapping)
+- [Implementing Domain-Driven Design](https://kalele.io/training/iddd/)
+- [Fast Flow of Change](https://kalele.io/fast-flow-of-change/) - Combining Wardley Mapping, DDD & Team Topologies, this workshop will help you to design for adaptability.
 
 ## Templates
 
