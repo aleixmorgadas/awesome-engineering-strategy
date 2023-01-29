@@ -29,6 +29,7 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 - [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/book/show/179133.Domain_Driven_Design)
 - [Implementing Domain-Driven Design](https://www.goodreads.com/book/show/15756865-implementing-domain-driven-design)
 - [Domain-Driven Design Distilled](https://www.goodreads.com/book/show/28602719-domain-driven-design-distilled)
+- [Wardley Maps](https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec)
 
 ## Posts
 
