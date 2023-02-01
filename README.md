@@ -73,5 +73,3 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 - [Qatium Product Market Fit](https://learnings.aleixmorgadas.dev/p/post-product-market-fit-open-engineering) - An engineering strategy when the product verifies product market fit and the engineering isn't evolving the practices to match the new product needs.
 
 ## Open Architectures
-
-- [Gitpod Architecture](https://gitpod.notion.site/Architecture-0e39e570b10f4e8ba7b259629ee3cb74#496a63099c8e430291de3fb9576525f6) - Gitpod architecture aligned with their strategy.
