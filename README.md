@@ -44,6 +44,7 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 - [ADR: Deep Dive into Architecture Decision Records](https://okorkmaz.medium.com/adr-deep-dive-into-architecture-decision-records-8c110ce7d74e) - Introduces what an architecture decision record is, describes the terminology, how to document the finalized architecture, and focuses on the best practices by presenting real scenerio.
 - [Strategy glossary](https://alexewerlof.substack.com/p/strategy-glossary) - Building a common language for vision, mission, goals, objectives, roadmap, plans, milestones, policies.
 - [Strategy basics](https://alexewerlof.substack.com/p/strategy-basics) - First in a series of posts about strategy why, how and what.
+- [Writing an engineering strategy](https://lethain.com/eng-strategies/) - A guide on how to write and document an engineering strategy.
 
 ## Videos
 
