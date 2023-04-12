@@ -52,6 +52,7 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 - [Crossing the River by Feeling the Stones - Simon Wardley](https://www.youtube.com/watch?v=oZZKjxeg5W0) - Simon Wardley examines the issue of situational awareness and explains how it applies to technology.
 - [Complex Adaptive Systems - Dave Snowden](https://www.youtube.com/watch?v=l4-vpegxYPg)
 - [Systems are communication structures - Diana Montalion](https://www.youtube.com/watch?v=U_0B-aY_L0c)
+- [Whole Work: Sociotechnicity & DevOps - Jabe Bloom](https://www.youtube.com/watch?v=WtfncGAeXWU)
 
 ## Courses and Workshops
 
