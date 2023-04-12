@@ -45,6 +45,7 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 - [Strategy glossary](https://alexewerlof.substack.com/p/strategy-glossary) - Building a common language for vision, mission, goals, objectives, roadmap, plans, milestones, policies.
 - [Strategy basics](https://alexewerlof.substack.com/p/strategy-basics) - First in a series of posts about strategy why, how and what.
 - [Writing an engineering strategy](https://lethain.com/eng-strategies/) - A guide on how to write and document an engineering strategy.
+- [Architecture Modernization Enabling Teams (AMET)](https://esilva.net/articles/architecture-modernization-enabling-team) - Explains how AMET coordinates and upskills all teams and stakeholders in the modernization initiative.
 
 ## Videos
 
