@@ -45,6 +45,7 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 - [Strategy glossary](https://alexewerlof.substack.com/p/strategy-glossary) - Building a common language for vision, mission, goals, objectives, roadmap, plans, milestones, policies.
 - [Strategy basics](https://alexewerlof.substack.com/p/strategy-basics) - First in a series of posts about strategy why, how and what.
 - [Writing an engineering strategy](https://lethain.com/eng-strategies/) - A guide on how to write and document an engineering strategy.
+- [Architecture Modernization Enabling Teams (AMET)](https://esilva.net/articles/architecture-modernization-enabling-team) - Explains how AMET coordinates and upskills all teams and stakeholders in the modernization initiative.
 
 ## Videos
 
@@ -52,6 +53,7 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 - [Crossing the River by Feeling the Stones - Simon Wardley](https://www.youtube.com/watch?v=oZZKjxeg5W0) - Simon Wardley examines the issue of situational awareness and explains how it applies to technology.
 - [Complex Adaptive Systems - Dave Snowden](https://www.youtube.com/watch?v=l4-vpegxYPg)
 - [Systems are communication structures - Diana Montalion](https://www.youtube.com/watch?v=U_0B-aY_L0c)
+- [Whole Work: Sociotechnicity & DevOps - Jabe Bloom](https://www.youtube.com/watch?v=WtfncGAeXWU)
 
 ## Courses and Workshops
 
