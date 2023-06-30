@@ -46,6 +46,7 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 - [Strategy basics](https://alexewerlof.substack.com/p/strategy-basics) - First in a series of posts about strategy why, how and what.
 - [Writing an engineering strategy](https://lethain.com/eng-strategies/) - A guide on how to write and document an engineering strategy.
 - [Architecture Modernization Enabling Teams (AMET)](https://esilva.net/articles/architecture-modernization-enabling-team) - Explains how AMET coordinates and upskills all teams and stakeholders in the modernization initiative.
+- [When and when *not* to do an engineering strategy](https://learnings.aleixmorgadas.dev/p/when-and-when-not-to-do-an-engineering) - Using Cynefin Framework, it shares in which domains designing an engineering strategy makes more sense compared to just execute.
 
 ## Videos
 
