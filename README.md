@@ -47,6 +47,8 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 - [Writing an engineering strategy](https://lethain.com/eng-strategies/) - A guide on how to write and document an engineering strategy.
 - [Architecture Modernization Enabling Teams (AMET)](https://esilva.net/articles/architecture-modernization-enabling-team) - Explains how AMET coordinates and upskills all teams and stakeholders in the modernization initiative.
 - [When and when *not* to do an engineering strategy](https://learnings.aleixmorgadas.dev/p/when-and-when-not-to-do-an-engineering) - Using Cynefin Framework, it shares in which domains designing an engineering strategy makes more sense compared to just execute.
+- [Emergent Platform and Evolution in Sociotechnical Systems](https://esilva.net/articles/emergent-platforms) - How platforms emerge from business challenges and the different types of teams like enabling and platform teams collaborate with stream-aligned teams to create the space and opportunities for platforms to evolve.
+- [Interim Platform Teams](https://learnings.aleixmorgadas.dev/p/interim-platform-team) - When a stream-aligned team starts supporting internal customers and acting as an interim platform team. How to deliver a great internal experience while delivering features for external clients.
 
 ## Videos
 
