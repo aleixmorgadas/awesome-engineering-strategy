@@ -13,6 +13,7 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 - [Videos](#videos)
 - [Courses and Workshops](#courses-and-workshops)
 - [Templates](#templates)
+- [Supporting Material](#supporting-material)
 - [Open Engineering Strategies](#open-engineering-strategies)
 
 ## Books
@@ -70,6 +71,11 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 ## Templates
 
 - [Engineering Strategy Notion Template](https://aleixmorgadas.notion.site/Engineering-Strategy-Template-910ad428d3d14c5a9aef4a4c32c4a8ba) - A template with the core elements of an engineering strategy, the high-stake problem, the understanding phase, the direction, and coherent actions.
+
+## Supporting material
+
+- [Context mapping](https://github.com/ddd-crew/context-mapping) - Visualize the contract between bounded contexts and teams with a collection of patterns.
+- [Core domain charts](https://github.com/ddd-crew/core-domain-charts) - Help you to visualise the strategic importance of each (sub)domain or business capability in your architecture allowing you to make business model-aligned architectural decisions.
 
 ## Open Engineering Strategies
 
