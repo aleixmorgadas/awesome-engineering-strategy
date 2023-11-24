@@ -57,9 +57,9 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 
 - [Experimentation and Evolution with Wardley Maps](https://www.youtube.com/watch?v=gAh7rK2F9pk) - How Cat has used Wardley Maps to inform her always evolving strategy for the modernization of Ticketmaster’s core ticketing platform not only in terms of technical capabilities and architecture but also process maturity, organizational design, and more.
 - [Crossing the River by Feeling the Stones](https://www.youtube.com/watch?v=oZZKjxeg5W0) - Simon Wardley examines the issue of situational awareness and explains how it applies to technology.
-- [Complex Adaptive Systems](https://www.youtube.com/watch?v=l4-vpegxYPg)
-- [Systems are communication structures](https://www.youtube.com/watch?v=U_0B-aY_L0c)
-- [Whole Work: Sociotechnicity & DevOps](https://www.youtube.com/watch?v=WtfncGAeXWU)
+- [Complex Adaptive Systems](https://www.youtube.com/watch?v=l4-vpegxYPg) - How to understand and categorize domains into ordered, complicated, complex, and chaotic, and how to navigate them.
+- [Systems are communication structures](https://www.youtube.com/watch?v=U_0B-aY_L0c) - Understand how communication within an organization creates patterns that repeat themselves and scale up to the organization.
+- [Whole Work: Sociotechnicity & DevOps](https://www.youtube.com/watch?v=WtfncGAeXWU) - How to understand the present to design a better present that will create better futures from a system thinking perspective.
 
 ## Courses and Workshops
 
