@@ -25,11 +25,11 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 - [Good Strategy Bad Strategy: The Difference and Why It Matters](https://www.goodreads.com/en/book/show/11721966) - Understand the core components of a strategy.
 - [The Value Flywheel Effect: Power the Future and Accelerate Your Organization to the Modern Cloud](https://www.goodreads.com/book/show/61167316-the-value-flywheel-effect?ac=1&from_search=true&qid=donxleC2tR&rank=1) - Using Wardley Mapping and other sensemaking approaches to help organizations anticipate market changes and user needs.
 - [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.goodreads.com/book/show/44135420-team-topologies) - Team Topologies is a practical, step-by-step, adaptive model for organizational design and team interaction based on four fundamental team types and three team interaction patterns.
-- [Thinking in Systems](https://www.goodreads.com/book/show/3828902-thinking-in-systems)
-- [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/book/show/179133.Domain_Driven_Design)
-- [Implementing Domain-Driven Design](https://www.goodreads.com/book/show/15756865-implementing-domain-driven-design)
-- [Domain-Driven Design Distilled](https://www.goodreads.com/book/show/28602719-domain-driven-design-distilled)
-- [Wardley Maps](https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec)
+- [Thinking in Systems](https://www.goodreads.com/book/show/3828902-thinkingow-in-systems) - An essential introduction into system thinking. It helps the reader to understand the fundamentals and introduces several system traps and how to overcome them.
+- [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/book/show/179133.Domain_Driven_Design) - Strategic patterns to understand complex domains and how to model them based on the impact on the business competitive advantage.
+- [Implementing Domain-Driven Design](https://www.goodreads.com/book/show/15756865-implementing-domain-driven-design) - An implementation approach to DDD from strategic patterns to tactical patterns with code examples.
+- [Domain-Driven Design Distilled](https://www.goodreads.com/book/show/28602719-domain-driven-design-distilled) - An accessible book to learn the main concepts of Domain-Driven Design.
+- [Wardley Maps](https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec) - A deep explanation of the origin of Wardley Maps up to the full understanding of how to do strategy which it is adaptive to the environment. 
 
 ## Posts
 
