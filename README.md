@@ -31,6 +31,7 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 - [Implementing Domain-Driven Design](https://www.goodreads.com/book/show/15756865-implementing-domain-driven-design) - An implementation approach to DDD from strategic patterns to tactical patterns with code examples.
 - [Domain-Driven Design Distilled](https://www.goodreads.com/book/show/28602719-domain-driven-design-distilled) - An accessible book to learn the main concepts of Domain-Driven Design.
 - [Wardley Maps](https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec) - A deep explanation of the origin of Wardley Maps up to the full understanding of how to do strategy which it is adaptive to the environment. 
+- [Architecture Modernization. Socio-technical alignment of software, strategy, and structure](https://www.manning.com/books/architecture-modernization) - Concrete tools, techniques, and processes to align software architecture with your business domains, organizational design, team topologies, and corporate strategy.
 
 ## Posts
 
