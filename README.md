@@ -91,4 +91,4 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 
 ## Communities
 
-- [Engineering Strategy Community](https://join.slack.com/t/engineeringstrategy/shared_invite/zt-281ejnipx-q9ZLSxaFnPYFBxc932gSCA)
+- [Engineering Strategy Community](https://join.slack.com/t/engineeringstrategy/shared_invite/zt-281ejnipx-q9ZLSxaFnPYFBxc932gSCA) - Slack community centered on Engineering Strategy.
