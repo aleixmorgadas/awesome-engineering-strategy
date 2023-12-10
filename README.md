@@ -69,6 +69,7 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 - [Pragmatic Wardley Mapping](https://learn.hiredthought.com/p/wardley-mapping)
 - [Implementing Domain-Driven Design](https://kalele.io/training/iddd/)
 - [Fast Flow of Change](https://kalele.io/fast-flow-of-change/) - Combining Wardley Mapping, DDD & Team Topologies, this workshop will help you to design for adaptability.
+- [Engineering Strategy Workshop](https://aleixmorgadas.dev/workshops/engineering-strategy) - Introduction to engineering strategy theory and components.
 
 ## Templates
 
