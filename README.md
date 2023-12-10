@@ -55,6 +55,7 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 - [Solving the Engineering Strategy crisis](https://lethain.com/solving-the-engineering-strategy-crisis/) - A unified theory of Engineering strategy, with a particular emphasis on how you can drive strategy.
 - [Engineering Strategy is a Fractal](https://learnings.aleixmorgadas.dev/p/engineering-strategy-is-a-fractal) - How to apply organization engineering strategy to the local context while keeping aligned with organization goals.
 - [Engineering strategy notes](https://lethain.com/strategy-notes/) - A collection of links on the topic gathered.
+- [Engineering strategy is more similar to poker than to chess](https://learnings.aleixmorgadas.dev/p/engineering-strategy-is-more-similar) - A comparison of chess and poker games and how they relate to engineering strategy.
 
 ## Videos
 
