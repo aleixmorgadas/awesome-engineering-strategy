@@ -73,6 +73,7 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 - [Implementing Domain-Driven Design](https://kalele.io/training/iddd/)
 - [Fast Flow of Change](https://kalele.io/fast-flow-of-change/) - Combining Wardley Mapping, DDD & Team Topologies, this workshop will help you to design for adaptability.
 - [Engineering Strategy Workshop](https://aleixmorgadas.dev/workshops/engineering-strategy) - Introduction to engineering strategy theory and components.
+- [Strategy for Technical Leaders Masterclass](https://ruthmalan.com/Bredemeyer/Strategy_Masterclass_Overview.htm) - This masterclass builds on our work with software, system and enterprise architects and product, program and executive managers including CTOs and CIOs.
 
 ## Templates
 
