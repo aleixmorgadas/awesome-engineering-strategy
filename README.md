@@ -11,6 +11,7 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 - [Books](#books)
 - [Posts](#posts)
 - [Videos](#videos)
+- [Methods](#methods)
 - [Courses and Workshops](#courses-and-workshops)
 - [Templates](#templates)
 - [Supporting Material](#supporting-material)
