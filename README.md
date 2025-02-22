@@ -11,6 +11,7 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 - [Books](#books)
 - [Posts](#posts)
 - [Videos](#videos)
+- [Methods](#methods)
 - [Courses and Workshops](#courses-and-workshops)
 - [Templates](#templates)
 - [Supporting Material](#supporting-material)
@@ -72,6 +73,10 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 - [Complex Adaptive Systems](https://www.youtube.com/watch?v=l4-vpegxYPg) - How to understand and categorize domains into ordered, complicated, complex, and chaotic, and how to navigate them.
 - [Systems are communication structures](https://www.youtube.com/watch?v=U_0B-aY_L0c) - Understand how communication within an organization creates patterns that repeat themselves and scale up to the organization.
 - [Whole Work: Sociotechnicity & DevOps](https://www.youtube.com/watch?v=WtfncGAeXWU) - How to understand the present to design a better present that will create better futures from a system thinking perspective.
+
+## Methods
+
+- [User Needs Mapping](https://userneedsmapping.com/) - An approach combining the essentials of Wardley Mapping with Team Topologies with a strong focus on user needs.
 
 ## Courses and Workshops
 
