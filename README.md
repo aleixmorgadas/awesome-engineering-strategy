@@ -36,6 +36,7 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 - [Wardley Maps](https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec) - A deep explanation of the origin of Wardley Maps up to the full understanding of how to do strategy which it is adaptive to the environment. 
 - [Architecture Modernization. Socio-technical alignment of software, strategy, and structure](https://www.manning.com/books/architecture-modernization) - Concrete tools, techniques, and processes to align software architecture with your business domains, organizational design, team topologies, and corporate strategy.
 - [Effective Platform Engineering](https://www.manning.com/books/effective-platform-engineering) - A book about designing, building, deploying, and scaling a custom Internal Development Platforms (IDP).
+- [Performance Engineering in Practice](https://www.manning.com/books/performance-engineering-in-practice) - A book about Den Odell’s Fast by Default model that replaces the slow “fix-it-later” path with a unique framework to build in performance from the start.
 
 ## Posts
 
